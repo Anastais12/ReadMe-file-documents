@@ -23,7 +23,7 @@ This is an <ins>underlined</ins> text
 
 > this is a quote
 
-> If you want the files just download the `READM.MD` file !
+If you want the files just download the `READM.MD` file ! or use `git-cl1ppz12-readme`
 
 
 ## Lists
